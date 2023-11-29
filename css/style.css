@@ -1,0 +1,35 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: rgb(34, 31, 56);
+}
+
+#header {
+    display: flex;
+    border-bottom: 1px solid white;
+    height: 10svh;
+    align-items: center;
+    padding-left: 1em;
+}
+
+#content {
+    padding: 1em 2em;
+}
+
+li {
+    margin-bottom: 2em;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: .5em;
+}
+
+img {
+    margin: 1em 0;
+}
